@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{296:function(e,r,o){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.browserSupportsEditor=function(){if(navigator.userAgent.toLowerCase().indexOf("chrome")>-1&&(0,n.getChromeVersion)()>53||navigator.userAgent.toLowerCase().indexOf("opera")>-1)return!0;return!1};var n=o(1)}}]);
+//# sourceMappingURL=editor-landing~eezy-editor-60bdc4dbe3c35d9796a3.chunk.js.map

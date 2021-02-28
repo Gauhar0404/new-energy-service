@@ -1,0 +1,98 @@
+body{
+    font-family: 'Raleway', sans-serif;  
+}
+
+/*nav*/
+a{
+    color: #2C363F;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 700;
+
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.hero{
+    background-image: url(./img/vector-natural-resources-illustration.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.hero-content{
+    margin-top: 4rem;
+}
+.hero-content h1{
+    font-weight: 900;
+    font-size: 3rem;
+}
+.hero-content h3{
+    font-weight: 700;
+}
+.social-icons-hero div{
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+/*About*/
+
+.about{
+    background-image: url(./img/pngtree-energy-power-station-vector-image_2226161.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.section-heading{
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+.btn-main{
+    background-color: #2C363F;
+    color: #fafaff;
+    font-size: 1.3rem;
+}
+
+/*Servies*/
+
+.services{
+    background-color:rgb(206, 236, 247);
+}
+.service{
+    border-radius: 2rem;
+}
+
+
+.service h3{
+    font-weight: 700;
+}
+
+.service i{
+    font-size: 2rem;
+}
+
+/*Contact*/
+
+.contact{
+    background-color: rgb(245, 239, 239);
+}
+
+.contact input,
+.contact textarea{
+    padding: 1rem 0.4rem;
+    font-size: 1.3rem;
+    width: 100%;
+}
+footer{
+    background-image: url(./img/energy\ service.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
